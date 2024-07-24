@@ -1,0 +1,3 @@
+providerConfigRef: default
+bucketName: my-crossplane-potatoes
+region: sa-east-1
