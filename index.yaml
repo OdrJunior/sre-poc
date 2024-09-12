@@ -3,7 +3,7 @@ entries:
   ec2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-12T20:17:21.129581866-03:00"
+    created: "2024-09-12T20:26:34.857765433-03:00"
     description: A Helm chart for Kubernetes
     digest: 31ffe3f1b994b4a31b41c00bc466fe2ea5712354f35c4dda040b0193cb51abcc
     name: ec2
@@ -14,7 +14,17 @@ entries:
   eks:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-12T20:17:21.130997767-03:00"
+    created: "2024-09-12T20:26:34.859818783-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 4ad371d41bc97a29deec30ce56346b2be0bd4e6e222945778f9587f2425bc948
+    name: eks
+    type: application
+    urls:
+    - packages/eks-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-12T20:26:34.859309828-03:00"
     description: A Helm chart for Kubernetes
     digest: 205a4db9e2bf7586b069eb214c45beed7106a0709be4e30b99e931790bde9968
     name: eks
@@ -24,7 +34,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-12T20:17:21.130533803-03:00"
+    created: "2024-09-12T20:26:34.858755762-03:00"
     description: A Helm chart for Kubernetes
     digest: 383943ed7115d72be4b71697078b8547c7361ddc8d92ca006353a4affe9e504d
     name: eks
@@ -34,7 +44,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-12T20:17:21.130107311-03:00"
+    created: "2024-09-12T20:26:34.858260317-03:00"
     description: A Helm chart for Kubernetes
     digest: ae487c281e8604dc79f71873da5208618fe0032079608888dcd9c1d23943488e
     name: eks
@@ -45,7 +55,7 @@ entries:
   s3:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-12T20:17:21.131160732-03:00"
+    created: "2024-09-12T20:26:34.859976447-03:00"
     description: A Helm chart for Kubernetes
     digest: b3edb2651ef5174591b82879992a06d43809de0a0ce2faf129b38933c4a48e5f
     name: s3
@@ -53,4 +63,4 @@ entries:
     urls:
     - packages/s3-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-12T20:17:21.12905792-03:00"
+generated: "2024-09-12T20:26:34.857314-03:00"
