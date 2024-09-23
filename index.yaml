@@ -3,7 +3,7 @@ entries:
   ec2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-18T11:34:56.352963481-03:00"
+    created: "2024-09-23T09:32:31.071604178-03:00"
     description: A Helm chart for Kubernetes
     digest: 31ffe3f1b994b4a31b41c00bc466fe2ea5712354f35c4dda040b0193cb51abcc
     name: ec2
@@ -14,7 +14,17 @@ entries:
   eks:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-18T11:34:56.358759207-03:00"
+    created: "2024-09-23T09:32:31.074478996-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 5ff59044dbdf38e2572bc036982af7ccf3d8daf4e807ec44b11d1d84fcd6dd40
+    name: eks
+    type: application
+    urls:
+    - packages/eks-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-23T09:32:31.074055603-03:00"
     description: A Helm chart for Kubernetes
     digest: bd29a3a6dafb9bda1245885835852dc19fc5f4774b7f20909ac03a6f0304282f
     name: eks
@@ -24,7 +34,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-18T11:34:56.358201391-03:00"
+    created: "2024-09-23T09:32:31.073576208-03:00"
     description: A Helm chart for Kubernetes
     digest: baef6be809e49abcaa5ef38d07e6caa7d0aba66b3c671eb5b097ac6778b3f0a4
     name: eks
@@ -34,7 +44,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-18T11:34:56.357063257-03:00"
+    created: "2024-09-23T09:32:31.073185276-03:00"
     description: A Helm chart for Kubernetes
     digest: 4ad371d41bc97a29deec30ce56346b2be0bd4e6e222945778f9587f2425bc948
     name: eks
@@ -44,7 +54,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-18T11:34:56.356158841-03:00"
+    created: "2024-09-23T09:32:31.072790884-03:00"
     description: A Helm chart for Kubernetes
     digest: 205a4db9e2bf7586b069eb214c45beed7106a0709be4e30b99e931790bde9968
     name: eks
@@ -54,7 +64,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-18T11:34:56.35504769-03:00"
+    created: "2024-09-23T09:32:31.072386352-03:00"
     description: A Helm chart for Kubernetes
     digest: 383943ed7115d72be4b71697078b8547c7361ddc8d92ca006353a4affe9e504d
     name: eks
@@ -64,7 +74,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-18T11:34:56.354130844-03:00"
+    created: "2024-09-23T09:32:31.072044501-03:00"
     description: A Helm chart for Kubernetes
     digest: ae487c281e8604dc79f71873da5208618fe0032079608888dcd9c1d23943488e
     name: eks
@@ -75,7 +85,7 @@ entries:
   s3:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-18T11:34:56.359490642-03:00"
+    created: "2024-09-23T09:32:31.0746107-03:00"
     description: A Helm chart for Kubernetes
     digest: b3edb2651ef5174591b82879992a06d43809de0a0ce2faf129b38933c4a48e5f
     name: s3
@@ -83,4 +93,4 @@ entries:
     urls:
     - packages/s3-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-18T11:34:56.350569261-03:00"
+generated: "2024-09-23T09:32:31.071205856-03:00"
